@@ -1,0 +1,432 @@
+﻿Geo_Key,Country,Region,Department,District,Creation_date
+1,Sénégal,Dakar,Dakar,Gueule Tapee Fass Colobane,2022-03-01
+2,Sénégal,Dakar,Dakar,Fann Point E Amitie,2022-03-01
+3,Sénégal,Dakar,Dakar,Goree,2022-03-01
+4,Sénégal,Dakar,Dakar,Medina,2022-03-01
+5,Sénégal,Dakar,Dakar,Plateau,2022-03-01
+6,Sénégal,Dakar,Dakar,Camberene,2022-03-01
+7,Sénégal,Dakar,Dakar,Dieuppeul Derkle,2022-03-01
+8,Sénégal,Dakar,Dakar,Biscuiterie,2022-03-01
+9,Sénégal,Dakar,Dakar,Hlm,2022-03-01
+10,Sénégal,Dakar,Dakar,Hann Bel Air,2022-03-01
+11,Sénégal,Dakar,Dakar,Grand Dakar,2022-03-01
+12,Sénégal,Dakar,Dakar,Sicap Liberte,2022-03-01
+13,Sénégal,Dakar,Dakar,Yoff,2022-03-01
+14,Sénégal,Dakar,Dakar,Mermoz Sacre Coeur,2022-03-01
+15,Sénégal,Dakar,Dakar,Ngor,2022-03-01
+16,Sénégal,Dakar,Dakar,Ouakam,2022-03-01
+17,Sénégal,Dakar,Dakar,Grand Yoff,2022-03-01
+18,Sénégal,Dakar,Dakar,Parcelles Assainies,2022-03-01
+19,Sénégal,Dakar,Dakar,Patte D'Oie,2022-03-01
+20,Sénégal,Dakar,Guédiawaye,Golf Sud,2022-03-01
+21,Sénégal,Dakar,Guédiawaye,Medina Gounass,2022-03-01
+22,Sénégal,Dakar,Guédiawaye,Ndiareme,2022-03-01
+23,Sénégal,Dakar,Guédiawaye,Sam Notaire,2022-03-01
+24,Sénégal,Dakar,Guédiawaye,Wakhinane Nimzat,2022-03-01
+25,Sénégal,Dakar,Pikine,Dalifort,2022-03-01
+26,Sénégal,Dakar,Pikine,Djida Thiaroye Kao,2022-03-01
+27,Sénégal,Dakar,Pikine,Guinaw Rail Nord,2022-03-01
+28,Sénégal,Dakar,Pikine,Guinaw Rail Sud,2022-03-01
+29,Sénégal,Dakar,Pikine,Pikine Est,2022-03-01
+30,Sénégal,Dakar,Pikine,Pikine Nord,2022-03-01
+31,Sénégal,Dakar,Pikine,Pikine Ouest,2022-03-01
+32,Sénégal,Dakar,Pikine,Keur Massar,2022-03-01
+33,Sénégal,Dakar,Pikine,Malika,2022-03-01
+34,Sénégal,Dakar,Pikine,Yeumbeul Nord,2022-03-01
+35,Sénégal,Dakar,Pikine,Yeumbeul Sud,2022-03-01
+36,Sénégal,Dakar,Pikine,Mbao,2022-03-01
+37,Sénégal,Dakar,Pikine,Diamaguene Sicap Mbao,2022-03-01
+38,Sénégal,Dakar,Pikine,Thiaroye Gare,2022-03-01
+39,Sénégal,Dakar,Pikine,Thiaroye Sur Mer,2022-03-01
+40,Sénégal,Dakar,Pikine,Tivavouane Diaksao,2022-03-01
+41,Sénégal,Dakar,Rufisque,Rufisque Est,2022-03-01
+42,Sénégal,Dakar,Rufisque,Rufisque Nord,2022-03-01
+43,Sénégal,Dakar,Rufisque,Rufisque Ouest,2022-03-01
+44,Sénégal,Dakar,Rufisque,Bambylor,2022-03-01
+45,Sénégal,Dakar,Rufisque,Tivaouane Peulh - Niaga,2022-03-01
+46,Sénégal,Dakar,Rufisque,Yene,2022-03-01
+47,Sénégal,Dakar,Rufisque,Bargny,2022-03-01
+48,Sénégal,Dakar,Rufisque,Diamniadio,2022-03-01
+49,Sénégal,Dakar,Rufisque,Jaxaay-Plles-Niakoul Rab,2022-03-01
+50,Sénégal,Dakar,Rufisque,Sangalkam,2022-03-01
+51,Sénégal,Dakar,Rufisque,Sebikotane,2022-03-01
+52,Sénégal,Dakar,Rufisque,Sendou,2022-03-01
+53,Sénégal,Diourbel,Bambey,Baba Garage,2022-03-01
+54,Sénégal,Diourbel,Bambey,Dangalma,2022-03-01
+55,Sénégal,Diourbel,Bambey,Dinguiraye,2022-03-01
+56,Sénégal,Diourbel,Bambey,Gawane,2022-03-01
+57,Sénégal,Diourbel,Bambey,Keur Samba Kane,2022-03-01
+58,Sénégal,Diourbel,Bambey,Lambaye,2022-03-01
+59,Sénégal,Diourbel,Bambey,Ndondol,2022-03-01
+60,Sénégal,Diourbel,Bambey,Ngogom,2022-03-01
+61,Sénégal,Diourbel,Bambey,Ngoye,2022-03-01
+62,Sénégal,Diourbel,Bambey,Refane,2022-03-01
+63,Sénégal,Diourbel,Bambey,Thiakhar,2022-03-01
+64,Sénégal,Diourbel,Diourbel,Dankh Sene,2022-03-01
+65,Sénégal,Diourbel,Diourbel,Gade Escale,2022-03-01
+66,Sénégal,Diourbel,Diourbel,Keur Ngalgou,2022-03-01
+67,Sénégal,Diourbel,Diourbel,Ndindy,2022-03-01
+68,Sénégal,Diourbel,Diourbel,Ndoulo,2022-03-01
+69,Sénégal,Diourbel,Diourbel,Ngohe,2022-03-01
+70,Sénégal,Diourbel,Diourbel,Pattar,2022-03-01
+71,Sénégal,Diourbel,Diourbel,Taiba Moutoupha,2022-03-01
+72,Sénégal,Diourbel,Diourbel,Tocky Gare,2022-03-01
+73,Sénégal,Diourbel,Diourbel,Toure Mbonde,2022-03-01
+74,Sénégal,Diourbel,Mbacke,Dalla Ngabou,2022-03-01
+75,Sénégal,Diourbel,Mbacke,Dandeye Gouygui,2022-03-01
+76,Sénégal,Diourbel,Mbacke,Darou Nahim,2022-03-01
+77,Sénégal,Diourbel,Mbacke,Darou Salam Typ,2022-03-01
+78,Sénégal,Diourbel,Mbacke,Kael,2022-03-01
+79,Sénégal,Diourbel,Mbacke,Madina,2022-03-01
+80,Sénégal,Diourbel,Mbacke,Missirah,2022-03-01
+81,Sénégal,Diourbel,Mbacke,Ndioumane,2022-03-01
+82,Sénégal,Diourbel,Mbacke,Nghaye,2022-03-01
+83,Sénégal,Diourbel,Mbacke,Sadio,2022-03-01
+84,Sénégal,Diourbel,Mbacke,Taiba Thiekene,2022-03-01
+85,Sénégal,Diourbel,Mbacke,Taif,2022-03-01
+86,Sénégal,Diourbel,Mbacke,Touba Fall,2022-03-01
+87,Sénégal,Diourbel,Mbacke,Touba Mboul,2022-03-01
+88,Sénégal,Diourbel,Mbacke,Touba Mosquee,2022-03-01
+89,Sénégal,Fatick,Fatick,Diaoule,2022-03-01
+90,Sénégal,Fatick,Fatick,Diarrere,2022-03-01
+91,Sénégal,Fatick,Fatick,Diouroup,2022-03-01
+92,Sénégal,Fatick,Fatick,Djilass,2022-03-01
+93,Sénégal,Fatick,Fatick,Fimela,2022-03-01
+94,Sénégal,Fatick,Fatick,Loul Sessene,2022-03-01
+95,Sénégal,Fatick,Fatick,Mbellacadiao,2022-03-01
+96,Sénégal,Fatick,Fatick,Ndiob,2022-03-01
+97,Sénégal,Fatick,Fatick,Ngayokheme,2022-03-01
+98,Sénégal,Fatick,Fatick,Niakhar,2022-03-01
+99,Sénégal,Fatick,Fatick,Palmarin Facao,2022-03-01
+100,Sénégal,Fatick,Fatick,Patar,2022-03-01
+101,Sénégal,Fatick,Fatick,Tattaguine,2022-03-01
+102,Sénégal,Fatick,Fatick,Thiare Ndialgui,2022-03-01
+103,Sénégal,Fatick,Foundiougne,Bassoul,2022-03-01
+104,Sénégal,Fatick,Foundiougne,Diagane Barka,2022-03-01
+105,Sénégal,Fatick,Foundiougne,Dionewar,2022-03-01
+106,Sénégal,Fatick,Foundiougne,Diossong,2022-03-01
+107,Sénégal,Fatick,Foundiougne,Djilor,2022-03-01
+108,Sénégal,Fatick,Foundiougne,Djirnda,2022-03-01
+109,Sénégal,Fatick,Foundiougne,Keur Saloum Diane,2022-03-01
+110,Sénégal,Fatick,Foundiougne,Keur Samba Gueye,2022-03-01
+111,Sénégal,Fatick,Foundiougne,Mbam,2022-03-01
+112,Sénégal,Fatick,Foundiougne,Niassene,2022-03-01
+113,Sénégal,Fatick,Foundiougne,Nioro Alassane Tall,2022-03-01
+114,Sénégal,Fatick,Foundiougne,Toubacouta,2022-03-01
+115,Sénégal,Fatick,Gossas,Colobane,2022-03-01
+116,Sénégal,Fatick,Gossas,Mbar,2022-03-01
+117,Sénégal,Fatick,Gossas,Ndiene Lagane,2022-03-01
+118,Sénégal,Fatick,Gossas,Ouadiour,2022-03-01
+119,Sénégal,Fatick,Gossas,Patar Lia,2022-03-01
+120,Sénégal,Kaolack,Guinguineo,Dara Mboss,2022-03-01
+121,Sénégal,Kaolack,Guinguineo,Khelcom Birame,2022-03-01
+122,Sénégal,Kaolack,Guinguineo,Mbadakhoune,2022-03-01
+123,Sénégal,Kaolack,Guinguineo,Ndiago,2022-03-01
+124,Sénégal,Kaolack,Guinguineo,Ngagnick,2022-03-01
+125,Sénégal,Kaolack,Guinguineo,Ngathie Naoude,2022-03-01
+126,Sénégal,Kaolack,Guinguineo,Ngellou,2022-03-01
+127,Sénégal,Kaolack,Guinguineo,Ourour,2022-03-01
+128,Sénégal,Kaolack,Guinguineo,Panal Wolof,2022-03-01
+129,Sénégal,Kaolack,Kaolack,Dya,2022-03-01
+130,Sénégal,Kaolack,Kaolack,Keur Baka,2022-03-01
+131,Sénégal,Kaolack,Kaolack,Keur Soce,2022-03-01
+132,Sénégal,Kaolack,Kaolack,Latmingue,2022-03-01
+133,Sénégal,Kaolack,Kaolack,Ndiaffate,2022-03-01
+134,Sénégal,Kaolack,Kaolack,Ndiebel,2022-03-01
+135,Sénégal,Kaolack,Kaolack,Ndiedieng,2022-03-01
+136,Sénégal,Kaolack,Kaolack,Thiare,2022-03-01
+137,Sénégal,Kaolack,Kaolack,Thiomby,2022-03-01
+138,Sénégal,Kaolack,Nioro Du Rip,Dabaly,2022-03-01
+139,Sénégal,Kaolack,Nioro Du Rip,Darou Salam,2022-03-01
+140,Sénégal,Kaolack,Nioro Du Rip,Gainte Kaye,2022-03-01
+141,Sénégal,Kaolack,Nioro Du Rip,Kayemor,2022-03-01
+142,Sénégal,Kaolack,Nioro Du Rip,Keur Maba Diakhou,2022-03-01
+143,Sénégal,Kaolack,Nioro Du Rip,Keur Madongo,2022-03-01
+144,Sénégal,Kaolack,Nioro Du Rip,Medina Sabakh,2022-03-01
+145,Sénégal,Kaolack,Nioro Du Rip,Ndrame Escale,2022-03-01
+146,Sénégal,Kaolack,Nioro Du Rip,Ngayene,2022-03-01
+147,Sénégal,Kaolack,Nioro Du Rip,Paoskoto,2022-03-01
+148,Sénégal,Kaolack,Nioro Du Rip,Porokhane,2022-03-01
+149,Sénégal,Kaolack,Nioro Du Rip,Taiba Niassene,2022-03-01
+150,Sénégal,Kaolack,Nioro Du Rip,Wack Ngouna,2022-03-01
+151,Sénégal,Kolda,Kolda,Bagadaji,2022-03-01
+152,Sénégal,Kolda,Kolda,Coumbacara,2022-03-01
+153,Sénégal,Kolda,Kolda,Dialambere,2022-03-01
+154,Sénégal,Kolda,Kolda,Dioulacolon,2022-03-01
+155,Sénégal,Kolda,Kolda,Guiro Yero Bocar,2022-03-01
+156,Sénégal,Kolda,Kolda,Mampatim,2022-03-01
+157,Sénégal,Kolda,Kolda,Medina Cherif,2022-03-01
+158,Sénégal,Kolda,Kolda,Medina El Hadji,2022-03-01
+159,Sénégal,Kolda,Kolda,Sare Bidji,2022-03-01
+160,Sénégal,Kolda,Kolda,Tankanto Escale,2022-03-01
+161,Sénégal,Kolda,Kolda,Thietty,2022-03-01
+162,Sénégal,Kolda,Medina Yoro Foulah,Badion,2022-03-01
+163,Sénégal,Kolda,Medina Yoro Foulah,Bignarabe,2022-03-01
+164,Sénégal,Kolda,Medina Yoro Foulah,Bourouco,2022-03-01
+165,Sénégal,Kolda,Medina Yoro Foulah,Fafacourou,2022-03-01
+166,Sénégal,Kolda,Medina Yoro Foulah,Kerewane,2022-03-01
+167,Sénégal,Kolda,Medina Yoro Foulah,Koulinto,2022-03-01
+168,Sénégal,Kolda,Medina Yoro Foulah,Ndorna,2022-03-01
+169,Sénégal,Kolda,Medina Yoro Foulah,Niaming,2022-03-01
+170,Sénégal,Kolda,Velingara,Bonconto,2022-03-01
+171,Sénégal,Kolda,Velingara,Kandia,2022-03-01
+172,Sénégal,Kolda,Velingara,Kandiaye,2022-03-01
+173,Sénégal,Kolda,Velingara,Linkering,2022-03-01
+174,Sénégal,Kolda,Velingara,Medina Gounasse,2022-03-01
+175,Sénégal,Kolda,Velingara,Nemataba,2022-03-01
+176,Sénégal,Kolda,Velingara,Ouassadou,2022-03-01
+177,Sénégal,Kolda,Velingara,Pakour,2022-03-01
+178,Sénégal,Kolda,Velingara,Paroumba,2022-03-01
+179,Sénégal,Kolda,Velingara,Sare Coli Salle,2022-03-01
+180,Sénégal,Kolda,Velingara,Sinthiang,2022-03-01
+181,Sénégal,Kolda,Velingara,Koundara,2022-03-01
+182,Sénégal,Louga,Kebemer,Bandegne Ouolof,2022-03-01
+183,Sénégal,Louga,Kebemer,Darou Marnane,2022-03-01
+184,Sénégal,Louga,Kebemer,Darou Mousti,2022-03-01
+185,Sénégal,Louga,Kebemer,Diokoul Ndiawrigne,2022-03-01
+186,Sénégal,Louga,Kebemer,Kab Gaye,2022-03-01
+187,Sénégal,Louga,Kebemer,Kanene Ndiob,2022-03-01
+188,Sénégal,Louga,Kebemer,Loro,2022-03-01
+189,Sénégal,Louga,Kebemer,Mbacke Cajor,2022-03-01
+190,Sénégal,Louga,Kebemer,Mbadiane,2022-03-01
+191,Sénégal,Louga,Kebemer,Ndande,2022-03-01
+192,Sénégal,Louga,Kebemer,Ndoyene,2022-03-01
+193,Sénégal,Louga,Kebemer,Ngourane Ouolof,2022-03-01
+194,Sénégal,Louga,Kebemer,Sagata Gueth,2022-03-01
+195,Sénégal,Louga,Kebemer,Sam Yabal,2022-03-01
+196,Sénégal,Louga,Kebemer,Thiep,2022-03-01
+197,Sénégal,Louga,Kebemer,Thiolom Fall,2022-03-01
+198,Sénégal,Louga,Kebemer,Touba Merina,2022-03-01
+199,Sénégal,Louga,Linguere,Affe Djolof,2022-03-01
+200,Sénégal,Louga,Linguere,Barkedji,2022-03-01
+201,Sénégal,Louga,Linguere,Boulal,2022-03-01
+202,Sénégal,Louga,Linguere,Dealy,2022-03-01
+203,Sénégal,Louga,Linguere,Dodji,2022-03-01
+204,Sénégal,Louga,Linguere,Gassane,2022-03-01
+205,Sénégal,Louga,Linguere,Kambe,2022-03-01
+206,Sénégal,Louga,Linguere,Labgar,2022-03-01
+207,Sénégal,Louga,Linguere,Mboula,2022-03-01
+208,Sénégal,Louga,Linguere,Ouarkhokh,2022-03-01
+209,Sénégal,Louga,Linguere,Sagatta Djolof,2022-03-01
+210,Sénégal,Louga,Linguere,Tessekere Forage,2022-03-01
+211,Sénégal,Louga,Linguere,Thiamene Passe,2022-03-01
+212,Sénégal,Louga,Linguere,Thiargny,2022-03-01
+213,Sénégal,Louga,Linguere,Thiel,2022-03-01
+214,Sénégal,Louga,Linguere,Yang Yang,2022-03-01
+215,Sénégal,Louga,Louga,Gande,2022-03-01
+216,Sénégal,Louga,Louga,Guet Ardo,2022-03-01
+217,Sénégal,Louga,Louga,Kelle Gueye,2022-03-01
+218,Sénégal,Louga,Louga,Keur Momar Sarr,2022-03-01
+219,Sénégal,Louga,Louga,Koki,2022-03-01
+220,Sénégal,Louga,Louga,Leona,2022-03-01
+221,Sénégal,Louga,Louga,Mbediene,2022-03-01
+222,Sénégal,Louga,Louga,Nguer Malal,2022-03-01
+223,Sénégal,Louga,Louga,Ngueune Sarr,2022-03-01
+224,Sénégal,Louga,Louga,Nguidile,2022-03-01
+225,Sénégal,Louga,Louga,Niomre,2022-03-01
+226,Sénégal,Louga,Louga,Pete Ouarack,2022-03-01
+227,Sénégal,Louga,Louga,Sakal,2022-03-01
+228,Sénégal,Louga,Louga,Syer,2022-03-01
+229,Sénégal,Louga,Louga,Thiamene Cayor,2022-03-01
+230,Sénégal,Matam,Kanel,Aoure,2022-03-01
+231,Sénégal,Matam,Kanel,Bokiladji,2022-03-01
+232,Sénégal,Matam,Kanel,Ndendory,2022-03-01
+233,Sénégal,Matam,Kanel,Orkadiere,2022-03-01
+234,Sénégal,Matam,Kanel,Wouro Sidy,2022-03-01
+235,Sénégal,Matam,Matam,Bokidiave,2022-03-01
+236,Sénégal,Matam,Matam,Dabia,2022-03-01
+237,Sénégal,Matam,Matam,Des Agnam (Agnam Civol),2022-03-01
+238,Sénégal,Matam,Matam,Nabadji Civol,2022-03-01
+239,Sénégal,Matam,Matam,Ogo,2022-03-01
+240,Sénégal,Matam,Matam,Orefonde,2022-03-01
+241,Sénégal,Matam,Ranerou Ferlo,Lougre Thioly,2022-03-01
+242,Sénégal,Matam,Ranerou Ferlo,Oudalaye,2022-03-01
+243,Sénégal,Matam,Ranerou Ferlo,Velingara,2022-03-01
+244,Sénégal,Saint-Louis,Dagana,Bokhol,2022-03-01
+245,Sénégal,Saint-Louis,Dagana,Diama,2022-03-01
+246,Sénégal,Saint-Louis,Dagana,Gnith,2022-03-01
+247,Sénégal,Saint-Louis,Dagana,Mbane,2022-03-01
+248,Sénégal,Saint-Louis,Dagana,Ronkh,2022-03-01
+249,Sénégal,Saint-Louis,Podor,Boke Dialloube,2022-03-01
+250,Sénégal,Saint-Louis,Podor,Dodel,2022-03-01
+251,Sénégal,Saint-Louis,Podor,Doumga Lao,2022-03-01
+252,Sénégal,Saint-Louis,Podor,Fanaye,2022-03-01
+253,Sénégal,Saint-Louis,Podor,Gamadji Sare,2022-03-01
+254,Sénégal,Saint-Louis,Podor,Guede Village,2022-03-01
+255,Sénégal,Saint-Louis,Podor,Madina Ndiathbe,2022-03-01
+256,Sénégal,Saint-Louis,Podor,Mbolo Birane,2022-03-01
+257,Sénégal,Saint-Louis,Podor,Meri,2022-03-01
+258,Sénégal,Saint-Louis,Podor,Ndiayene Peindao,2022-03-01
+259,Sénégal,Saint-Louis,Saint-Louis,Fass Ngom,2022-03-01
+260,Sénégal,Saint-Louis,Saint-Louis,Gandon,2022-03-01
+261,Sénégal,Saint-Louis,Saint-Louis,Ndiebene Gandiole,2022-03-01
+262,Sénégal,Tambacounda,Bakel,Ballou,2022-03-01
+263,Sénégal,Tambacounda,Bakel,Bele,2022-03-01
+264,Sénégal,Tambacounda,Bakel,Gabou,2022-03-01
+265,Sénégal,Tambacounda,Bakel,Gathiari,2022-03-01
+266,Sénégal,Tambacounda,Bakel,Madina Foulbe,2022-03-01
+267,Sénégal,Tambacounda,Bakel,Mouderi,2022-03-01
+268,Sénégal,Tambacounda,Bakel,Sadatou,2022-03-01
+269,Sénégal,Tambacounda,Bakel,Sinthiou Fissa,2022-03-01
+270,Sénégal,Tambacounda,Bakel,Toumboura,2022-03-01
+271,Sénégal,Tambacounda,Goudiry,Bala,2022-03-01
+272,Sénégal,Tambacounda,Goudiry,Bani Israel,2022-03-01
+273,Sénégal,Tambacounda,Goudiry,Boutoucoufara,2022-03-01
+274,Sénégal,Tambacounda,Goudiry,Boynguel Bamba,2022-03-01
+275,Sénégal,Tambacounda,Goudiry,Dianke Makha,2022-03-01
+276,Sénégal,Tambacounda,Goudiry,Dougue,2022-03-01
+277,Sénégal,Tambacounda,Goudiry,Goumbayel,2022-03-01
+278,Sénégal,Tambacounda,Goudiry,Koar,2022-03-01
+279,Sénégal,Tambacounda,Goudiry,Komoti,2022-03-01
+280,Sénégal,Tambacounda,Goudiry,Koulor,2022-03-01
+281,Sénégal,Tambacounda,Goudiry,Koussan,2022-03-01
+282,Sénégal,Tambacounda,Goudiry,Sinthiou Bocar Aly,2022-03-01
+283,Sénégal,Tambacounda,Goudiry,Sinthiou Mamadou Boubou,2022-03-01
+284,Sénégal,Tambacounda,Koumpentoum,Bamba Thialene,2022-03-01
+285,Sénégal,Tambacounda,Koumpentoum,Kahene,2022-03-01
+286,Sénégal,Tambacounda,Koumpentoum,Kouthia Gaydi,2022-03-01
+287,Sénégal,Tambacounda,Koumpentoum,Kouthiaba Wolof,2022-03-01
+288,Sénégal,Tambacounda,Koumpentoum,Mereto,2022-03-01
+289,Sénégal,Tambacounda,Koumpentoum,Ndam,2022-03-01
+290,Sénégal,Tambacounda,Koumpentoum,Pass Koto,2022-03-01
+291,Sénégal,Tambacounda,Koumpentoum,Payar,2022-03-01
+292,Sénégal,Tambacounda,Tambacounda,Dialokoto,2022-03-01
+293,Sénégal,Tambacounda,Tambacounda,Koussanar,2022-03-01
+294,Sénégal,Tambacounda,Tambacounda,Makacolibantang,2022-03-01
+295,Sénégal,Tambacounda,Tambacounda,Ndoga Babacar,2022-03-01
+296,Sénégal,Tambacounda,Tambacounda,Netteboulou,2022-03-01
+297,Sénégal,Tambacounda,Tambacounda,Niani Toucouleur,2022-03-01
+298,Sénégal,Tambacounda,Tambacounda,Sinthiou Maleme,2022-03-01
+299,Sénégal,Thiès,Mbour,Diass,2022-03-01
+300,Sénégal,Thiès,Mbour,Fissel,2022-03-01
+301,Sénégal,Thiès,Mbour,Malicounda,2022-03-01
+302,Sénégal,Thiès,Mbour,Ndiaganiao,2022-03-01
+303,Sénégal,Thiès,Mbour,Ngueniene,2022-03-01
+304,Sénégal,Thiès,Mbour,Sandiara,2022-03-01
+305,Sénégal,Thiès,Mbour,Sessene,2022-03-01
+306,Sénégal,Thiès,Mbour,Sindia,2022-03-01
+307,Sénégal,Thiès,Thiès,Diender Guedji,2022-03-01
+308,Sénégal,Thiès,Thiès,Fandene,2022-03-01
+309,Sénégal,Thiès,Thiès,Keur Moussa,2022-03-01
+310,Sénégal,Thiès,Thiès,Ndieyene Sirakh,2022-03-01
+311,Sénégal,Thiès,Thiès,Ngoundiane,2022-03-01
+312,Sénégal,Thiès,Thiès,Notto,2022-03-01
+313,Sénégal,Thiès,Thiès,Tassette,2022-03-01
+314,Sénégal,Thiès,Thiès,Thienaba,2022-03-01
+315,Sénégal,Thiès,Thiès,Touba Toul,2022-03-01
+316,Sénégal,Thiès,Tivaouane,Cherif Lo,2022-03-01
+317,Sénégal,Thiès,Tivaouane,Darou Khoudoss,2022-03-01
+318,Sénégal,Thiès,Tivaouane,Koul,2022-03-01
+319,Sénégal,Thiès,Tivaouane,Mbayene,2022-03-01
+320,Sénégal,Thiès,Tivaouane,Meouane,2022-03-01
+321,Sénégal,Thiès,Tivaouane,Merina Dakhar,2022-03-01
+322,Sénégal,Thiès,Tivaouane,Mont Rolland,2022-03-01
+323,Sénégal,Thiès,Tivaouane,Ngandiouf,2022-03-01
+324,Sénégal,Thiès,Tivaouane,Niakhene,2022-03-01
+325,Sénégal,Thiès,Tivaouane,Notto Gouye Diama,2022-03-01
+326,Sénégal,Thiès,Tivaouane,Pambal,2022-03-01
+327,Sénégal,Thiès,Tivaouane,Pekesse,2022-03-01
+328,Sénégal,Thiès,Tivaouane,Pire Goureye,2022-03-01
+329,Sénégal,Thiès,Tivaouane,Taiba Ndiaye,2022-03-01
+330,Sénégal,Thiès,Tivaouane,Thilmakha,2022-03-01
+331,Sénégal,Ziguinchor,Bignona,Balingore,2022-03-01
+332,Sénégal,Ziguinchor,Bignona,Coubalan,2022-03-01
+333,Sénégal,Ziguinchor,Bignona,Diegoune,2022-03-01
+334,Sénégal,Ziguinchor,Bignona,Djibidione,2022-03-01
+335,Sénégal,Ziguinchor,Bignona,Djinaki,2022-03-01
+336,Sénégal,Ziguinchor,Bignona,Kafountine,2022-03-01
+337,Sénégal,Ziguinchor,Bignona,Kartiack,2022-03-01
+338,Sénégal,Ziguinchor,Bignona,Kataba 1,2022-03-01
+339,Sénégal,Ziguinchor,Bignona,Mangagoulack,2022-03-01
+340,Sénégal,Ziguinchor,Bignona,Mlomp,2022-03-01
+341,Sénégal,Ziguinchor,Bignona,Niamone,2022-03-01
+342,Sénégal,Ziguinchor,Bignona,Oulampane,2022-03-01
+343,Sénégal,Ziguinchor,Bignona,Ouonck,2022-03-01
+344,Sénégal,Ziguinchor,Bignona,Sindian,2022-03-01
+345,Sénégal,Ziguinchor,Bignona,Suel,2022-03-01
+346,Sénégal,Ziguinchor,Bignona,Tenghori,2022-03-01
+347,Sénégal,Ziguinchor,Oussouye,Diembering,2022-03-01
+348,Sénégal,Ziguinchor,Oussouye,Oukout,2022-03-01
+349,Sénégal,Ziguinchor,Oussouye,Santhiaba Manjaque,2022-03-01
+350,Sénégal,Ziguinchor,Ziguinchor,Adeane,2022-03-01
+351,Sénégal,Ziguinchor,Ziguinchor,Boutoupa Camaracound,2022-03-01
+352,Sénégal,Ziguinchor,Ziguinchor,Enampor,2022-03-01
+353,Sénégal,Ziguinchor,Ziguinchor,Niaguis,2022-03-01
+354,Sénégal,Ziguinchor,Ziguinchor,Niassia,2022-03-01
+355,Sénégal,Sédhiou,Bounkiling,Boghal,2022-03-01
+356,Sénégal,Sédhiou,Bounkiling,Bona,2022-03-01
+357,Sénégal,Sédhiou,Bounkiling,Diacounda,2022-03-01
+358,Sénégal,Sédhiou,Bounkiling,Diambaty,2022-03-01
+359,Sénégal,Sédhiou,Bounkiling,Diaroume,2022-03-01
+360,Sénégal,Sédhiou,Bounkiling,Djinany,2022-03-01
+361,Sénégal,Sédhiou,Bounkiling,Faoune,2022-03-01
+362,Sénégal,Sédhiou,Bounkiling,Inor,2022-03-01
+363,Sénégal,Sédhiou,Bounkiling,Kandion Mangana,2022-03-01
+364,Sénégal,Sédhiou,Bounkiling,Ndiamalathiel,2022-03-01
+365,Sénégal,Sédhiou,Bounkiling,Tankon,2022-03-01
+366,Sénégal,Sédhiou,Goudomp,Baghere,2022-03-01
+367,Sénégal,Sédhiou,Goudomp,Dioudoubou,2022-03-01
+368,Sénégal,Sédhiou,Goudomp,Djibanar,2022-03-01
+369,Sénégal,Sédhiou,Goudomp,Kaour,2022-03-01
+370,Sénégal,Sédhiou,Goudomp,Karantaba,2022-03-01
+371,Sénégal,Sédhiou,Goudomp,Kolibantang,2022-03-01
+372,Sénégal,Sédhiou,Goudomp,Mangaroungou Santo,2022-03-01
+373,Sénégal,Sédhiou,Goudomp,Niagha,2022-03-01
+374,Sénégal,Sédhiou,Goudomp,Simbandi Balante,2022-03-01
+375,Sénégal,Sédhiou,Goudomp,Simbandi Brassou,2022-03-01
+376,Sénégal,Sédhiou,Goudomp,Yarang Balante,2022-03-01
+377,Sénégal,Sédhiou,Sédhiou,Bambali,2022-03-01
+378,Sénégal,Sédhiou,Sédhiou,Bemet Bidjini,2022-03-01
+379,Sénégal,Sédhiou,Sédhiou,Diannah Ba,2022-03-01
+380,Sénégal,Sédhiou,Sédhiou,Diende,2022-03-01
+381,Sénégal,Sédhiou,Sédhiou,Djibabouya,2022-03-01
+382,Sénégal,Sédhiou,Sédhiou,Djiredji,2022-03-01
+383,Sénégal,Sédhiou,Sédhiou,Koussy,2022-03-01
+384,Sénégal,Sédhiou,Sédhiou,Oudoucar,2022-03-01
+385,Sénégal,Sédhiou,Sédhiou,Sakar,2022-03-01
+386,Sénégal,Sédhiou,Sédhiou,Same Kanta Peulh,2022-03-01
+387,Sénégal,Sédhiou,Sédhiou,Sansamba,2022-03-01
+388,Sénégal,Kaffrine,Birkilane,Diamal,2022-03-01
+389,Sénégal,Kaffrine,Birkilane,Keur Mboucki,2022-03-01
+390,Sénégal,Kaffrine,Birkilane,Mabo,2022-03-01
+391,Sénégal,Kaffrine,Birkilane,Mbeuleup,2022-03-01
+392,Sénégal,Kaffrine,Birkilane,Ndiognick,2022-03-01
+393,Sénégal,Kaffrine,Birkilane,Segre Gatta,2022-03-01
+394,Sénégal,Kaffrine,Birkilane,Touba Mbella,2022-03-01
+395,Sénégal,Kaffrine,Kaffrine,Boulel,2022-03-01
+396,Sénégal,Kaffrine,Kaffrine,Diamagadio,2022-03-01
+397,Sénégal,Kaffrine,Kaffrine,Diokoul Mbelbouck,2022-03-01
+398,Sénégal,Kaffrine,Kaffrine,Gniby,2022-03-01
+399,Sénégal,Kaffrine,Kaffrine,Kahi,2022-03-01
+400,Sénégal,Kaffrine,Kaffrine,Kathiote,2022-03-01
+401,Sénégal,Kaffrine,Kaffrine,Medinatoul Salam 2,2022-03-01
+402,Sénégal,Kaffrine,Koungheul,Fass Thiekene,2022-03-01
+403,Sénégal,Kaffrine,Koungheul,Ida Mouride,2022-03-01
+404,Sénégal,Kaffrine,Koungheul,Lour Escale,2022-03-01
+405,Sénégal,Kaffrine,Koungheul,Maka Yop,2022-03-01
+406,Sénégal,Kaffrine,Koungheul,Missirah Wadene,2022-03-01
+407,Sénégal,Kaffrine,Koungheul,Ngainthe Pate,2022-03-01
+408,Sénégal,Kaffrine,Koungheul,Ribot Escale,2022-03-01
+409,Sénégal,Kaffrine,Koungheul,Saly Escale,2022-03-01
+410,Sénégal,Kaffrine,Malem Hodar,Darou Minam,2022-03-01
+411,Sénégal,Kaffrine,Malem Hodar,Djanke Souf,2022-03-01
+412,Sénégal,Kaffrine,Malem Hodar,Khelcom,2022-03-01
+413,Sénégal,Kaffrine,Malem Hodar,Ndiobene Samba Lamo,2022-03-01
+414,Sénégal,Kaffrine,Malem Hodar,Ndioum Ngainthe,2022-03-01
+415,Sénégal,Kaffrine,Malem Hodar,Sagna,2022-03-01
+416,Sénégal,Kédougou,Kedougou,Bandafassi,2022-03-01
+417,Sénégal,Kédougou,Kedougou,Dimboli,2022-03-01
+418,Sénégal,Kédougou,Kedougou,Dindefelo,2022-03-01
+419,Sénégal,Kédougou,Kedougou,Fongolimbi,2022-03-01
+420,Sénégal,Kédougou,Kedougou,Ninefecha,2022-03-01
+421,Sénégal,Kédougou,Kedougou,Tomboronkoto,2022-03-01
+422,Sénégal,Kédougou,Salemata,Dakately,2022-03-01
+423,Sénégal,Kédougou,Salemata,Dar Salam,2022-03-01
+424,Sénégal,Kédougou,Salemata,Ethiolo,2022-03-01
+425,Sénégal,Kédougou,Salemata,Kevoye,2022-03-01
+426,Sénégal,Kédougou,Salemata,Oubadji,2022-03-01
+427,Sénégal,Kédougou,Saraya,Bembou,2022-03-01
+428,Sénégal,Kédougou,Saraya,Khossanto,2022-03-01
+429,Sénégal,Kédougou,Saraya,Medina Baffe,2022-03-01
+430,Sénégal,Kédougou,Saraya,Missirah Sirimana,2022-03-01
+431,Sénégal,Kédougou,Saraya,Sabodola,2022-03-01

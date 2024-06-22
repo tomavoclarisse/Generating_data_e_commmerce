@@ -1,0 +1,31 @@
+﻿Category_ID,Category_name,Category_parent,Category_description
+Cat_0001,Maquillage,,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0002,Teint,Maquillage,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0003,Levres,Maquillage,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0004,Yeux,Maquillage,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0005,Sourcils,Maquillage,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0006,Ongles,Maquillage,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0007,Pinceaux & Accessoires,Maquillage,Des gammes de maquillage pour révéler votre beauté naturelle avec éclat.
+Cat_0008,Parfums,,Plongez dans notre univers olfactif et découvrez des parfums envoûtants qui captivent les sens.
+Cat_0009,Parfums Femme,Parfums,Plongez dans notre univers olfactif et découvrez des parfums envoûtants qui captivent les sens.
+Cat_0010,Parfums Homme,Parfums,Plongez dans notre univers olfactif et découvrez des parfums envoûtants qui captivent les sens.
+Cat_0011,Coffret Parfum,Parfums,Plongez dans notre univers olfactif et découvrez des parfums envoûtants qui captivent les sens.
+Cat_0012,Notes Olfactives,Parfums,Plongez dans notre univers olfactif et découvrez des parfums envoûtants qui captivent les sens.
+Cat_0013,Soins Du Visage,,Une sélection de soins de visage pour une peau éclatante et radieuse au quotidien.
+Cat_0014,Type De Soin,Soins Visage,Une sélection de soins de visage pour une peau éclatante et radieuse au quotidien.
+Cat_0015,Besoins,Soins Visage,Une sélection de soins de visage pour une peau éclatante et radieuse au quotidien.
+Cat_0016,Démaquillant & Nettoyant,Soins Visage,Une sélection de soins de visage pour une peau éclatante et radieuse au quotidien.
+Cat_0017,Masque Visage,Soins Visage,Une sélection de soins de visage pour une peau éclatante et radieuse au quotidien.
+Cat_0018,Solaire,Soins Visage,Une sélection de soins de visage pour une peau éclatante et radieuse au quotidien.
+Cat_0019,Corps & Bains,,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0020,Soin Du Corps,Corps & Bains,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0021,Bain & Douche,Corps & Bains,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0022,Besoins,Corps & Bains,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0023,Accessoires,Corps & Bains,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0024,Solaire,Corps & Bains,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0025,Coffret Corps Et Bain,Corps & Bains,"Plongez dans un monde de bien-être avec notre gamme de soins pour le corps et le bain, pour une expérience sensorielle inoubliable."
+Cat_0026,Cheveux,,Des collections de produits capillaires pour sublimer votre chevelure avec élégance.
+Cat_0027,Routines Capillaires,Cheveux,Des collections de produits capillaires pour sublimer votre chevelure avec élégance.
+Cat_0028,Beurre & Huiles,Cheveux,Des collections de produits capillaires pour sublimer votre chevelure avec élégance.
+Cat_0029,Accesoires Capillaires,Cheveux,Des collections de produits capillaires pour sublimer votre chevelure avec élégance.
+Cat_0030,Coiffures,Cheveux,Des collections de produits capillaires pour sublimer votre chevelure avec élégance.

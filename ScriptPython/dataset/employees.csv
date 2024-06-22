@@ -1,0 +1,28 @@
+﻿Emp_Id,Store_ID,Emp_firstname,Emp_lastname,Emp_email,Emp_address,Emp_title,Emp_phone_number,Emp_hire_date,Manager_id,Emp_status
+Emp001,Store001,Fatou,Pouye,fatoupouye55@gmail.com,,Manager,+221775717736,,,activated
+Emp002,Store002,Aïssatou,Dia,aissatoudia@gmail.com,,Manager,+221787171146,,,activated
+Emp003,Store003,Ndèye,Sall,ndeyesall@gmail.com,,Manager,+221772503539,,,activated
+Emp004,Store004,Mariama,Ngom,mariamangom@gmail.com,,Manager,+221777557439,,,activated
+Emp005,Store005,Khady,Balde,khadybalde34@gmail.com,,Manager,+221788333096,,,activated
+Emp006,Store001,Sokhna,Cisse,sokhnacisse8@gmail.com,,Delivery Person,+221772887635,,Emp001,activated
+Emp007,Store001,Astou,Keita,astoukeita0@gmail.com,,Delivery Person,+221783189780,,Emp001,activated
+Emp008,Store001,Bineta,Thiaw,binetathiaw02@gmail.com,,Delivery Person,+221770668848,,Emp001,activated
+Emp009,Store001,Mamadou,Mendy,mamadoumendy58@gmail.com,,Delivery Person,+221771150892,,Emp001,activated
+Emp010,Store001,Cheikh,Sagna,cheikhsagna31@gmail.com,,Delivery Person,+221784617577,,Emp001,activated
+Emp011,Store002,Ousmane,Coly,ousmanecoly2@gmail.com,,Delivery Person,+221775921263,,Emp002,activated
+Emp012,Store002,Abdoulaye,Mballo,abdoulayemballo07@gmail.com,,Delivery Person,+221777617268,,Emp002,activated
+Emp013,Store002,Samba,Badji,sambabadji1@gmail.com,,Delivery Person,+221773487660,,Emp002,activated
+Emp014,Store003,Moussa,Diakhaté,moussadiakhate@gmail.com,,Delivery Person,+221775458008,,Emp003,activated
+Emp015,Store003,Alioune,Tall,aliounetall22@gmail.com,,Delivery Person,+221772137132,,Emp003,activated
+Emp016,Store003,Babacar,Mbaye,babacarmbaye15@gmail.com,,Delivery Person,+221787776971,,Emp003,activated
+Emp017,Store003,Abdoul,Dieng,abdouldieng4@gmail.com,,Delivery Person,+221788270748,,Emp003,activated
+Emp018,Store003,Pape,Ka,papeka@gmail.com,,Delivery Person,+221771714086,,Emp003,activated
+Emp019,Store003,Moustapha,Ndiaye,moustaphandiaye34@gmail.com,,Delivery Person,+221786643015,,Emp003,activated
+Emp020,Store004,Abdourahmane,Sarr,abdourahmanesarr3@gmail.com,,Delivery Person,+221780966622,,Emp004,activated
+Emp021,Store004,Amadou,Touré,amadoutoure@gmail.com,,Delivery Person,+221777939541,,Emp004,activated
+Emp022,Store004,Idrissa,Diouf,idrissadiouf3@gmail.com,,Delivery Person,+221779702333,,Emp004,activated
+Emp023,Store004,Serigne,Diop,serignediop@gmail.com,,Delivery Person,+221784559156,,Emp004,activated
+Emp024,Store005,Ibrahima,Seck,ibrahimaseck@gmail.com,,Delivery Person,+221774955083,,Emp005,activated
+Emp025,Store005,Oumar,Bambey,oumarbambey@gmail.com,,Delivery Person,+221786787558,,Emp005,activated
+Emp026,Store005,Aboubacar,Sow,aboubacarsow22@gmail.com,,Delivery Person,+221782818473,,Emp005,activated
+Emp027,Store005,Assane,Kebe,assanekebe48@gmail.com,,Delivery Person,+221782554338,,Emp005,activated
